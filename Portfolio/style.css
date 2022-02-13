@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    background-color: black; 
+    color:antiquewhite
+}
+h4{
+    text-decoration: underline;
+    font-size:x-large;
+}
+body{
+    text-align: center;
+    background-color: darkslategrey;
+    color: antiquewhite;
+    font-size: larger;   
+    
+}
